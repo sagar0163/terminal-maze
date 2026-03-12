@@ -1,25 +1,51 @@
-# Terminal Maze
+# Terminal Maze 🧩
 
-Generate and solve mazes in your Linux terminal.
+Generate and solve mazes in your terminal - Enhanced Edition v2.0!
 
-## Features
+## Version 2.0 - Enhanced
 
-- Random maze generation
-- Interactive gameplay
-- Arrow key controls
+### New Features in v2.0
 
-## Requirements
+| Feature | Description |
+|---------|-------------|
+| **Treasures** | Collect diamonds for bonus points |
+| **Visited path** | See where you've been |
+| **Score system** | Points for treasures, moves, time |
+| **Multiple sizes** | Small, Medium, Large, XL |
+| **Timer** | Track completion time |
+| **Move counter** | Track your moves |
+| **New maze** | Press N to generate new maze |
 
-```bash
-pip install keyboard
-```
+### Controls
 
-## Run
+| Key | Action |
+|-----|--------|
+| Arrow Keys / WASD | Move |
+| N | New maze |
+| Q | Quit |
 
-```bash
-python maze.py
-```
+### How to Play
 
-## Author
+1. Use arrow keys to navigate the maze
+2. Collect 💎 treasures for bonus points
+3. Reach the 🚪 exit to win
+4. Try to complete in fewer moves!
 
-Sagar Jadhav
+### Scoring
+
+- Each treasure: +100 points
+- Bonus: 1000 - (moves × 2)
+- Bonus: 500 - (seconds × 5)
+
+### Maze Sizes
+
+| Size | Dimensions |
+|------|------------|
+| Small | 15×9 |
+| Medium | 21×11 |
+| Large | 31×17 |
+| XL | 41×21 |
+
+---
+
+⭐ Star this repo if you enjoy the game!
