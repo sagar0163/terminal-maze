@@ -49,3 +49,4 @@ Generate and solve mazes in your terminal - Enhanced Edition v2.0!
 ---
 
 ⭐ Star this repo if you enjoy the game!
+# Update
